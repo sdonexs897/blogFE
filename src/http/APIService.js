@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_URL =  'http://ai27.pythonanywhere.com';
+const API_URL =  'https://ai27.pythonanywhere.com';
 
 export class APIService {
   constructor() {
